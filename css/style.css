@@ -27,7 +27,7 @@
 
     height: 100vh;
     width: 100vw;
-    background-size: 900px;
+    background-size: 100%;
     display: flex;
     justify-content: center;
     align-items: center;
@@ -51,7 +51,7 @@
 
 
 .about-img{
-    padding: ;
+    padding: 25px ;
     display: flex;
     justify-content: center;
     align-items: center;
